@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <users>
+        <user id="1">
+            <name type="string">Simon</name>
+            <username type="string">sensei</username>
+            <password type="string">tms-t</password>
+        </user>
+        <user id="2">
+            <name type="string">Yuri</name>
+            <username type="string">student</username>
+            <password type="string">tms-s</password>
+        </user>
+    </users>
+</root>
